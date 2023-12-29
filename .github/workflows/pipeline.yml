@@ -34,7 +34,7 @@ jobs:
     - name: Package
       run: |
           cd dist
-          & make.bat
+          & ./make.bat
           cd ..
 
     - name: Commit new version
