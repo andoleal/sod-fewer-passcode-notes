@@ -1,0 +1,10 @@
+{
+  "name": "FewerPasscodeNotes",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Decreases the number of passcode notes.",
+  "author": "andole",
+  "dependencies": [
+	
+  ]
+}
