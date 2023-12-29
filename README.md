@@ -8,10 +8,10 @@ One thing that bugs me about the base game is that nearly every citizen writes d
 # Installation: 
 
 This is a BepInEx plugin. You must have BepInEx installed for this to work.
-Get it in a mod manager or by the link below.
+Get it in a mod manager or by this link: 
 https://thunderstore.io/c/shadows-of-doubt/p/BepInEx/BepInExPack_IL2CPP/
 
-To install manually, unpack the archive into "Shadows of Doubt/BepInEx/plugins", so that it's like this: "plugins/FewerPasscodeNotes/FewerPasscodeNotes.dll".
+To install manually, unpack the archive into "Shadows of Doubt/BepInEx/plugins", so that it's like this:  "plugins/FewerPasscodeNotes/FewerPasscodeNotes.dll".
 
 # Changlelog: 
 
