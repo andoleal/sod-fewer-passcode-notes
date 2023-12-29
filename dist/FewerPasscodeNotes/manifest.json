@@ -1,7 +1,7 @@
 {
     "name":  "FewerPasscodeNotes",
-    "version_number":  "1.0.1",
-    "website_url":  "",
+    "version_number":  "1.0.-1",
+    "website_url":  "https://github.com/andoleal/sod-fewer-passcode-notes",
     "description":  "Decreases the number of passcode notes.",
     "author":  "andole",
     "dependencies":  [
